@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hi+I'm+Dineth+Nupehewa+👋;Software+Engineering+Undergraduate;Full+Stack+Developer+%7C+MERN+%26+Flutter;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+
 # 👋 Hi, I'm Dineth Nupehewa
 
 🎓 **Software Engineering Undergraduate (3rd Year)**  
@@ -21,9 +26,11 @@ I enjoy building scalable full-stack applications, clean UI designs, and efficie
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dineth-nupehewa)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([PASTE_LINKEDIN_HERE](https://www.linkedin.com/in/dineth-nupehewa-258987355/))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](PASTE_FACEBOOK_HERE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dinethimanthaa6@gmail.com)
+
 
 ---
 
@@ -69,11 +76,7 @@ I enjoy building scalable full-stack applications, clean UI designs, and efficie
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Dinethimantha&theme=shadow_blue)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinethimantha&layout=compact&theme=shadow_blue)
 
----
 
-## 🏆 GitHub Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dinethimantha&theme=radical&no-frame=true&margin-w=10)
 
 ---
 
