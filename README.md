@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hi+I'm+Dineth+Nupehewa+👋;Software+Engineering+Undergraduate;Full+Stack+Developer+%7C+MERN+%26+Flutter;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://github-readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hi+I'm+Dineth+Nupehewa;Software+Engineering+Undergraduate;Full+Stack+Developer+%7C+MERN+%26+Flutter;Welcome+to+my+GitHub+Profile" />
 </p>
 
 <p align="center">
@@ -12,8 +12,11 @@
 
 ## 🚀 About Me
 
-I am a passionate Software Engineering undergraduate with a strong interest in **Web and Mobile Application Development**.  
-I enjoy building scalable full-stack applications, clean user interfaces, and efficient backend systems.
+I am a motivated Software Engineering undergraduate with a strong interest in  
+**Web and Mobile Application Development**.
+
+I enjoy building scalable full-stack applications, clean user interfaces, and
+efficient backend systems.
 
 - 🔭 Working on **MERN stack** and **Flutter** projects  
 - 💡 Interested in **modern web technologies & mobile apps**  
@@ -83,7 +86,7 @@ I enjoy building scalable full-stack applications, clean user interfaces, and ef
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Dinethimantha&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=Dinethimantha&style=flat&color=blue" />
 </p>
 
 ⭐ <i>Thanks for visiting my profile — feel free to explore my repositories!</i>
