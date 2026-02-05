@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hi+I'm+Dineth+Nupehewa+👋;Software+Engineering+Undergraduate;Full+Stack+Developer+%7C+MERN+%26+Flutter;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=180&section=header&text=&fontSize=0"/>
+
 
 
 # 👋 Hi, I'm Dineth Nupehewa
@@ -71,14 +73,10 @@ I enjoy building scalable full-stack applications, clean UI designs, and efficie
 ---
 
 ## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinethimantha&show_icons=true&theme=shadow_blue)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Dinethimantha&theme=shadow_blue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinethimantha&layout=compact&theme=shadow_blue)
 
 
 
----
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=Dinethimantha&icon=0&color=0)
 
