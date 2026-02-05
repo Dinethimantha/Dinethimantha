@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hi+I'm+Dineth+Nupehewa;Software+Engineering+Undergraduate;Full+Stack+Developer+%7C+MERN+%26+Flutter;Welcome+to+my+GitHub+Profile" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Hi,+I'm+Dineth+Nupehewa!&fontSize=40&color=2F80ED&animation=twinkling" />
 </p>
+
 
 <p align="center">
   🎓 <b>Software Engineering Undergraduate (3rd Year)</b> &nbsp;|&nbsp;
