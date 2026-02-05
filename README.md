@@ -6,16 +6,16 @@
 
 ## 🚀 About Me
 
-I am a motivated Software Engineering undergraduate with a strong interest in  
+I am a motivated Software Engineering undergraduate at **NSBM Green University**, with a strong interest in  
 **Web and Mobile Application Development**.
 
-I enjoy building scalable full-stack applications, clean user interfaces, and
-efficient backend systems.
+I enjoy building scalable full-stack applications, designing clean user interfaces, and developing efficient backend systems.
 
-- 🔭 Working on **MERN stack** and **Flutter** projects  
-- 💡 Interested in **modern web technologies & mobile apps**  
+- 🔭 Currently working on **MERN stack** and **Flutter** projects  
+- 💡 Passionate about **modern web technologies & mobile apps**  
+- 🎓 Pursuing a **Software Engineering degree at NSBM**  
 - 🤝 Open to **Internships, Collaborations, and Open-Source Contributions**  
-- 📈 Continuously improving problem-solving and development skills  
+- 📈 Continuously improving problem-solving and development skills
 
 ---
 
@@ -83,12 +83,6 @@ efficient backend systems.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinethimantha&theme=tomorrow&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tomorrow" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dinethimantha&style=flat&color=blue" />
