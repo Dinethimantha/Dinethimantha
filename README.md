@@ -1,12 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Hi,+I'm+Dineth+Nupehewa!&fontSize=40&color=2F80ED&animation=twinkling" />
-</p>
-
-
-<p align="center">
-  🎓 <b>Software Engineering Undergraduate (3rd Year)</b> &nbsp;|&nbsp;
-  💻 <b>Full Stack Developer (MERN & Flutter)</b> &nbsp;|&nbsp;
-  📍 <b>Sri Lanka</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Dineth+Nupehewa;Software+Engineering+Undergraduate;Web+%26+Mobile+Developer" />
 </p>
 
 ---
