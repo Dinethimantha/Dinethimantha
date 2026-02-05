@@ -1,23 +1,19 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hi+I'm+Dineth+Nupehewa+👋;Software+Engineering+Undergraduate;Full+Stack+Developer+%7C+MERN+%26+Flutter;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hi+I'm+Dineth+Nupehewa+👋;Software+Engineering+Undergraduate;Full+Stack+Developer+%7C+MERN+%26+Flutter;Welcome+to+my+GitHub+Profile!" />
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=180&section=header&text=&fontSize=0"/>
 
-
-
-# 👋 Hi, I'm Dineth Nupehewa
-
-🎓 **Software Engineering Undergraduate (3rd Year)**  
-💻 **Full Stack Developer | MERN & Flutter**  
-🌱 Currently learning **Advanced Web Technologies & Mobile App Development**  
-📍 **Sri Lanka**
+<p align="center">
+  🎓 <b>Software Engineering Undergraduate (3rd Year)</b> &nbsp;|&nbsp;
+  💻 <b>Full Stack Developer (MERN & Flutter)</b> &nbsp;|&nbsp;
+  📍 <b>Sri Lanka</b>
+</p>
 
 ---
 
 ## 🚀 About Me
 
 I am a passionate Software Engineering undergraduate with a strong interest in **Web and Mobile Application Development**.  
-I enjoy building scalable full-stack applications, clean UI designs, and efficient backend systems.
+I enjoy building scalable full-stack applications, clean user interfaces, and efficient backend systems.
 
 - 🔭 Working on **MERN stack** and **Flutter** projects  
 - 💡 Interested in **modern web technologies & mobile apps**  
@@ -28,11 +24,17 @@ I enjoy building scalable full-stack applications, clean UI designs, and efficie
 
 ## 🌐 Connect With Me
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([PASTE_LINKEDIN_HERE](https://www.linkedin.com/in/dineth-nupehewa-258987355/))
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](PASTE_FACEBOOK_HERE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dinethimanthaa6@gmail.com)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/dineth-nupehewa-258987355/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:dinethimanthaa6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -73,11 +75,15 @@ I enjoy building scalable full-stack applications, clean UI designs, and efficie
 ---
 
 ## 📊 GitHub Statistics
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Dinethimantha&theme=shadow_blue)
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dinethimantha&theme=shadow_blue" />
+</p>
 
+---
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Dinethimantha&icon=0&color=0" />
+</p>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Dinethimantha&icon=0&color=0)
-
-⭐ *Thanks for visiting my profile — feel free to explore my repositories!*  
+⭐ <i>Thanks for visiting my profile — feel free to explore my repositories!</i>
