@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Dineth+Nupehewa;Software+Engineering+Undergraduate;Web+%26+Mobile+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=b1ba04&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Dineth+Nupehewa;Software+Engineering+Undergraduate;Web+%26+Mobile+Developer" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ efficient backend systems.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dinethimantha&theme=shadow_blue" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dinethimantha&theme=merko" />
 </p>
 
 <br/> 
