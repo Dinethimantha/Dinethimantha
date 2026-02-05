@@ -77,6 +77,17 @@ efficient backend systems.
   <img src="https://nirzak-streak-stats.vercel.app/?user=Dinethimantha&theme=shadow_blue" />
 </p>
 
+<br/> 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinethimantha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
 ---
 
 <p align="center">
