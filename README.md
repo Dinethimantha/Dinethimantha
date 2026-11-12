@@ -4,10 +4,9 @@
 
 ---
 
-## 🚀 About Me
+ 🚀 About Me
 
-I am a motivated Software Engineering undergraduate at **NSBM Green University**, with a strong interest in  
-**Web and Mobile Application Development**.
+Software Engineering Graduate with a strong passion for Full-Stack Development, Mobile Application Development, and building innovative software solutions. Experienced in Flutter, Dart, JavaScript, Node.js, Express.js, MongoDB, Firebase, and Python. Passionate about problem-solving, learning new technologies, and creating user-friendly applications that solve real-world problems.
 
 I enjoy building scalable full-stack applications, designing clean user interfaces, and developing efficient backend systems.
 
@@ -35,9 +34,9 @@ I enjoy building scalable full-stack applications, designing clean user interfac
 
 ---
 
-## 💻 Tech Stack
+ 💻 Tech Stack
 
-### 🧑‍💻 Programming Languages
+ 🧑‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
@@ -45,25 +44,25 @@ I enjoy building scalable full-stack applications, designing clean user interfac
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### 🌐 Frontend
+ 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white)
 
-### 🔙 Backend & Databases
+ 🔙 Backend & Databases
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-### 📱 Mobile & Cloud
+ 📱 Mobile & Cloud
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-### ⚙️ Tools & DevOps
+ ⚙️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
@@ -71,7 +70,7 @@ I enjoy building scalable full-stack applications, designing clean user interfac
 
 ---
 
-## 📊 GitHub Statistics
+ 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Dinethimantha&theme=merko" />
